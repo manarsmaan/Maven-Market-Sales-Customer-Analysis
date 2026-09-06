@@ -39,8 +39,6 @@ This project presents an end-to-end Data Analysis on **Maven Market** using **Mi
 ├── Final_Project_Manar_Elbrishy.xlsx    # Full Excel Workbook with Data, Pivots & Dashboards
 └── README.md                            # Detailed Project Documentation
 
----
-
 ## 🖼️ Dashboard Screenshots
 ![Overall Dashboard](Screenshot%202026-07-22%20122900.png)
 ![Customer Dashboard](Screenshot%202026-07-22%20123013.png)
